@@ -1,0 +1,15 @@
+/home/et12alumno/ejerc28092023/bin/Debug/net7.0/ejerc28092023
+/home/et12alumno/ejerc28092023/bin/Debug/net7.0/ejerc28092023.deps.json
+/home/et12alumno/ejerc28092023/bin/Debug/net7.0/ejerc28092023.runtimeconfig.json
+/home/et12alumno/ejerc28092023/bin/Debug/net7.0/ejerc28092023.dll
+/home/et12alumno/ejerc28092023/bin/Debug/net7.0/ejerc28092023.pdb
+/home/et12alumno/ejerc28092023/obj/Debug/net7.0/ejerc28092023.csproj.AssemblyReference.cache
+/home/et12alumno/ejerc28092023/obj/Debug/net7.0/ejerc28092023.GeneratedMSBuildEditorConfig.editorconfig
+/home/et12alumno/ejerc28092023/obj/Debug/net7.0/ejerc28092023.AssemblyInfoInputs.cache
+/home/et12alumno/ejerc28092023/obj/Debug/net7.0/ejerc28092023.AssemblyInfo.cs
+/home/et12alumno/ejerc28092023/obj/Debug/net7.0/ejerc28092023.csproj.CoreCompileInputs.cache
+/home/et12alumno/ejerc28092023/obj/Debug/net7.0/ejerc28092023.dll
+/home/et12alumno/ejerc28092023/obj/Debug/net7.0/refint/ejerc28092023.dll
+/home/et12alumno/ejerc28092023/obj/Debug/net7.0/ejerc28092023.pdb
+/home/et12alumno/ejerc28092023/obj/Debug/net7.0/ejerc28092023.genruntimeconfig.cache
+/home/et12alumno/ejerc28092023/obj/Debug/net7.0/ref/ejerc28092023.dll
