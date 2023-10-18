@@ -28,7 +28,7 @@ namespace Libreria {
                         foreach( string elem  in  miLista ){
                             Console.Write(elem); 
                             Console.WriteLine(" ("+contador+")");
-                            contador++;
+                            contador++; 
 
                         }
                         Console.ReadKey();
